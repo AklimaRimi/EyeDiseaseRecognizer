@@ -36,7 +36,11 @@ Motive and is making a Ai based Eye Diagonestic machine that can detect any eye 
   
   ## Deployment
   
-  I deployed my project on `HuggingFace` website. Link is : https://huggingface.co/spaces/Rimi98/EyeDiseaseClassifier
+  I deployed my project on `HuggingFace` website. Link is : https://huggingface.co/spaces/Rimi98/EyeDiseaseClassifier <br>
+  
+  <img src="https://github.com/AklimaRimi/EyeDiseaseRecognizer/blob/main/output/huggingface1.png" width='700' height='400'><br>
+  <img src="https://github.com/AklimaRimi/EyeDiseaseRecognizer/blob/main/output/huggingface2.png" width='700' height='400'><br>
+  
   
   ## Integration
   
