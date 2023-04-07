@@ -1,3 +1,6 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEyeDiseaseRecognizer%2F&label=views&labelColor=%23697689&countColor=%23f47373)
+
+
 # EyeDiseaseRecognizer
 
 # Motive/ Goal
