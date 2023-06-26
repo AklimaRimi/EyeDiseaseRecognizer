@@ -5,6 +5,11 @@
 
 # Motive/ Goal
 
+<p float="left">
+  <img src="https://github.com/AklimaRimi/EyeDiseaseRecognizer/blob/main/output/huggingface1.png" width="500px" height='300px'/>
+  <img src="https://github.com/AklimaRimi/EyeDiseaseRecognizer/blob/main/output/huggingface2.png" width="500px" height='300px'/> 
+</p>
+
 Motive and Goal is developing an AI based eye diagnostic machine that can detect eye problems of a person.
 
 # Description
